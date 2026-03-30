@@ -205,7 +205,3 @@ A typical test flow in this framework can cover:
 2. Make your changes
 3. Run the full test suite locally
 4. Open a pull request
-
-## License
-
-Add your project license here.
